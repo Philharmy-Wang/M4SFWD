@@ -5,7 +5,18 @@
 
   - **云端硬盘**，我们针对不同的目标检测算法（coco, darknet, yolov6, yolov7, yolov8），提供了不同标注格式的数据.
 
-      - **谷歌云盘**的下载链接为：**coco**, **darknet**, **yolov6**, **yolov7**, **yolov8**，**different_weather_and_time:**。 
+      - **谷歌云盘**的下载链接为：
+          - [**coco**](https://drive.google.com/file/d/12iLl-uDIrAuZ1-2vmbeP3bDcOQXB4Mds/view?usp=share_link), 
+
+          - [**darknet**](https://drive.google.com/file/d/1wSjo9qVpwEntL9Olt_y7xrmH-0tuK8Fp/view?usp=share_link), 
+
+          - [**yolov6**](https://drive.google.com/file/d/1FB7Pjnz0DqXvxVUcfvK2lwPZssUOQguH/view?usp=share_link), 
+
+          - [**yolov7**](https://drive.google.com/file/d/1eVQ2OG1NXEHaheuTuTl6kPz7NlpEy9wx/view?usp=share_link),
+ 
+          - [**yolov8**](https://drive.google.com/file/d/1VRJxqXZZibQap9TmL-z-caNJsnd5Y70q/view?usp=share_link), 
+
+          - [**different_weather_and_time**](https://drive.google.com/file/d/1i5HDMOHKaDZNrGixJUGSSFJLgrrHZEb-/view?usp=share_link)。 
 
       - **百度云盘**的下载链接为：
       

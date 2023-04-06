@@ -1,9 +1,9 @@
-# Multimodal Synthetic Forest Fire Dataset (MSFFD)
+# Multimodal Synthetic Forest Wildfire Dataset (MSFWD)
 
 [English](https://github.com/Philharmy-Wang/MSFFD/blob/main/README.md) |  [中文简体](https://github.com/Philharmy-Wang/MSFFD/blob/main/README_zh.md)
 
 
-# 1. MSFFD Download Link
+# 1. MSFWD Download Link
 We provide two ways to access the **MSFFD**:
 
   - **Roboflow**, the address of this dataset is:https://universe.roboflow.com/yunnan-university/synthetic-fire-smoke
@@ -140,7 +140,7 @@ The size distribution of fire and smoke annotation boxes for different modes is 
 
 # 4. Experimental results
 
-## 4.1 Experimental results of MSFFD in single-stage object detection algorithm
+## 4.1 Experimental results of MSFWD in single-stage object detection algorithm
 
 |     Model         |     #Param.    |     Flops     |     Weight Size    |     AP50:95    |     AP50    |     APFire    |     APSmoke    |     Precision    |     Recall    |     F1-socre    |
 |-------------------|----------------|---------------|--------------------|----------------|-------------|---------------|----------------|------------------|---------------|-----------------|
@@ -176,7 +176,7 @@ The size distribution of fire and smoke annotation boxes for different modes is 
 |     Fast R-CNN  R50-FPN      |     416           |     318.7Mb        |     28.5       |     59.8    |
 
 
-## 4.3 Experimental Results of MSFFD in Lightweight objects detection algorithm
+## 4.3 Experimental Results of MSFWD in Lightweight objects detection algorithm
 
 |     Model          |     #Param.    |     Flops    |     Weight Size    |     AP50:95    |     AP50    |     APFire    |     APSmoke    |     Precision    |     Recall    |     F1-socre    |
 |--------------------|----------------|--------------|--------------------|----------------|-------------|---------------|----------------|------------------|---------------|-----------------|

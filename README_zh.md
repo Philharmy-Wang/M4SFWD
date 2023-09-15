@@ -283,45 +283,80 @@ MSFFD考虑了一天中不同时间点（白天，傍晚和黑夜）的多模态
 ### 5.2.1 创建新的场景
 
 - 打开UE5编辑器。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/da1188c7-2f6c-4112-b089-7ccd409ee521)
+
 - 选择`File` > `New Level`，选择一个基本模板，例如“Default”或“VR Basic”。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/21bb853a-c34b-43e2-8b97-1c26ea8e8158)
+
 
 ### 5.2.2 导入素材
 
 - 打开`Content Browser`，右击，选择`Import`。
+  
 - 浏览到您从虚幻引擎市场下载的素材目录，选择相关的资源文件进行导入。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/876a923f-4e62-4213-8dd5-ca280d611629)
 
 ### 5.2.3 地形构建：
 
 - 选择左侧工具栏中的“Landscape”工具。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/62cabe52-fd7b-46cf-8f10-01bef3f40334)
+
+
 - 在顶部的设置中，调整地形的大小和分辨率，然后点击“创建”。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/b5a993f7-e043-4fd2-a5ae-baec36e7f672)
+
 - 使用“Sculpt”工具进行雕刻，模仿自然地形的起伏。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/a74b3727-6687-445c-b09d-11166167847b)
 
 
 
 ### 5.2.4 植被布局
 
 - 使用`Foliage`工具（通常在主工具栏的左侧）来放置和编辑植被。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/69ca9ca0-c118-46e8-839e-1a2dd37131d9)
+
 - 在`Foliage`面板中，拖入您要用的植被模型。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/0222106b-1fcf-4000-bbbc-85c93f6e6fb8)
+
 - 使用画笔工具，调整笔刷大小和强度，在地形上绘制植被。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/05ef6687-f97d-41c3-8fcd-283d33598f84)
+
 
 ### 5.2.5 火焰和烟雾的放置
 
 - 在`Content Browser`中，找到火焰和烟雾的特效（通常是.particle文件）。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/eb2cde8e-cdbb-40cc-8006-64c9060845a4)
+
 - 将特效拖入场景中，放在合适的位置。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/17914bd2-48d9-4913-833f-b76609508c7b)
+
 - 使用`Details`面板来调整特效的大小、方向、强度等属性。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/5f9a841c-7c7e-4303-bd7e-4b6883b9a348)
+
 
 ### 5.2.6 灯光与相机
 
 - 使用`Place Actors`面板添加灯光，如“Directional Light”、“Point Light”等。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/6791312f-aead-488d-9995-d927507a5115)
+
 - 调整灯光的位置、方向、颜色和强度来模拟不同的天气和时间条件。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/0675c4f8-f2e6-4ad7-9ec0-feadba8188ae)
+
 - 添加一个`Camera Actor`到场景中，确定视角和拍摄角度。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/23b424e8-c820-466d-89d8-83c2cace489f)
+
 - 使用`Details`面板调整相机的焦距、曝光等设置。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/739dff1b-9259-4985-af4d-e12b5d9c2fec)
 
 ### 5.2.7 预览和保存
 
 - 点击`Play`按钮来在编辑器中预览场景。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/b791d696-78ab-43f1-bff7-3fd2bc817c76)
+
 - 根据需要调整场景的各个元素，直到满意为止。
 - 选择`File` > `Save`，为场景命名并保存。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/0d682560-bba2-4e8d-834a-40ae4f8ca318)
+
 
 
 ## 5.3 天气、时间和其他细节
@@ -329,20 +364,36 @@ MSFFD考虑了一天中不同时间点（白天，傍晚和黑夜）的多模态
 ### 5.3.1 设置天气
 
 - **晴天**：调整`Directional Light`的强度来模拟阳光，增加`Sky Light`来提供柔和的环境光。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/394c973e-8bb5-451c-9bcb-74e787577fd0)
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/9cb15535-884d-4613-8d96-d1250f0556c6)
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/87c11903-c36b-4ba3-bd53-3effed820bbd)
+
+
 - **雨天**：
   - 使用虚幻引擎市场上的雨特效，或者创建自定义的雨滴粒子系统。
   - 调整场景中的所有灯光，使其更暗、更冷。
+    ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/3c9bbeb7-b272-4dee-8960-fcb2760ea2ab)
+
   - 可以考虑增加湿润的地表材质以模拟雨后的地面。
+    
 - **雾天**：使用`Exponential Height Fog`组件来模拟雾效果。通过调整其属性如雾的密度、颜色和距离，来模拟不同的雾效果。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/4f78102a-3765-4990-8469-39be4baedde1)
+
 
 ### 5.3.2 调整时间
 
 - **日间**：设置`Directional Light`为明亮的白色，确保天空盒反映出白天的云彩。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/35d16e00-ec2a-466b-a647-fe97eecd9e66)
+
 - **傍晚**：调整`Directional Light`的颜色为橙红色，降低其强度来模拟日落。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/20dad2ee-d6c5-423b-a2a0-c9d42c2f58df)
+
 - **夜晚**：
   - 设置`Directional Light`的强度非常低，并调整其颜色为深蓝色。
   - 添加`Point Lights`或`Spot Lights`来模拟人工光源，如街灯或灯笼。
   - 考虑增加星空或月亮的天空盒纹理。
+    ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/12ae7329-ce82-47f6-993a-303c4138fd33)
+
 
 ### 5.3.3 其他细节
 

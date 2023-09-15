@@ -244,23 +244,39 @@ MSFFD考虑了一天中不同时间点（白天，傍晚和黑夜）的多模态
 ### 5.1.2 浏览与搜索素材
 
 - 打开[虚幻引擎市场](https://www.unrealengine.com/marketplace/en-US/store)。
-- 在搜索框中输入关键词，例如：`forest vegetation`、`fire VFX`、`smoke VFX`。
+- 在搜索框中输入关键词，例如：`forest vegetation`、`fire VFX`、`smoke VFX`。  
 - 在搜索结果中，您可以按照类别、评分、价格等进行筛选。
+   ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/6c62c129-4148-4154-b46e-e1a3fc421c96)
+
 
 ### 5.1.3 素材的选择
 
 - 仔细查看各个产品的：
   - **图片预览**：观察素材的细节、质量以及样式是否符合您的需求。
+    ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/91fa785f-bc25-4e91-881f-0811d0107bf3)
+
   - **视频展示**：如果提供了视频，这可以帮助您更好地了解素材的实际效果。
+      ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/501b4837-6441-43c1-b2a0-87040ebdd91c)
+
   - **用户评价**：其他用户的评价可以为您提供关于该素材的额外信息。
+      ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/9a62869a-8290-4d64-ac52-360af2b938be)
+
 
 ### 5.1.4 购买与下载
 
 - 点击您选择的素材。
 - 仔细阅读产品描述、技术细节等信息。
 - 点击页面右侧的`购买`按钮（如果是付费资源）或`免费领取`（如果是免费资源）。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/be9907e1-c432-440d-ba22-bb51526b6769)
+
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/c76ec82a-9f3b-4485-8517-c45f6e9a49f0)
+
 - 完成购买流程后，该资源将自动添加到您的Epic Games账户库中。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/6c6c2955-b7c3-4b95-87b0-f8aa345233ba)
+
 - 打开UE5编辑器，进入`Epic Games Launcher`的库，找到你的素材并选择`添加到项目`。
+  ![image](https://github.com/Philharmy-Wang/M4SFWD/assets/51520993/57bc90ac-fd11-48c4-b636-09bfafcd66fe)
+
 
 ## 5.2. 场景布局
 

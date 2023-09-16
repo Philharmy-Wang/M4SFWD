@@ -3,8 +3,8 @@
 [English](https://github.com/Philharmy-Wang/MSFFD/blob/main/README.md) |  [中文简体](https://github.com/Philharmy-Wang/MSFFD/blob/main/README_zh.md)
 
 
-# 1. MSFWD Download Link
-We provide two ways to access the **MSFFD**:
+# 1. M<sup>4</sup>SFWD Download Link
+We provide two ways to access the **M<sup>4</sup>SFWD**:
 
   - **Roboflow**, the address of this dataset is:https://universe.roboflow.com/yunnan-university/synthetic-fire-smoke
 
@@ -88,13 +88,13 @@ We built eight multi-scale forest scenarios with different terrain and vegetatio
 
 ## 2.2 Multiple Weather
 
-MSFFD simulates not only sunny weather scenes, but also rainy, foggy and snowy weather scenes.
+M<sup>4</sup>SFWD simulates not only sunny weather scenes, but also rainy, foggy and snowy weather scenes.
 
 ![多样化气象条件，包含晴天、雨&雾天和雪天。](https://user-images.githubusercontent.com/51520993/230010663-3901daad-b3ad-4c18-ae02-9f77812deb2b.png)
 
 ## 2.3 Multiple times of day
 
-MSFFD considers multimodal forest fire images at different points of the day (day, evening and night).
+M<sup>4</sup>SFWD considers multimodal forest fire images at different points of the day (day, evening and night).
 
 ![image](https://user-images.githubusercontent.com/51520993/230017256-dd94a59a-7448-499b-a93e-e35d6536b5dd.png)
 
@@ -140,7 +140,7 @@ The size distribution of fire and smoke annotation boxes for different modes is 
 
 # 4. Experimental results
 
-## 4.1 Experimental results of MSFWD in single-stage object detection algorithm
+## 4.1 Experimental results of M<sup>4</sup>SFWD in single-stage object detection algorithm
 
 |     Model         |     #Param.    |     Flops     |     Weight Size    |     AP50:95    |     AP50    |     APFire    |     APSmoke    |     Precision    |     Recall    |     F1-socre    |
 |-------------------|----------------|---------------|--------------------|----------------|-------------|---------------|----------------|------------------|---------------|-----------------|
@@ -176,7 +176,7 @@ The size distribution of fire and smoke annotation boxes for different modes is 
 |     Fast R-CNN  R50-FPN      |     416           |     318.7Mb        |     28.5       |     59.8    |
 
 
-## 4.3 Experimental Results of MSFWD in Lightweight objects detection algorithm
+## 4.3 Experimental Results of M<sup>4</sup>SFWD in Lightweight objects detection algorithm
 
 |     Model          |     #Param.    |     Flops    |     Weight Size    |     AP50:95    |     AP50    |     APFire    |     APSmoke    |     Precision    |     Recall    |     F1-socre    |
 |--------------------|----------------|--------------|--------------------|----------------|-------------|---------------|----------------|------------------|---------------|-----------------|
@@ -217,7 +217,7 @@ Train on real fire datasets
 |     YOLOv8x        |     27.7       |     54.1    |     63.1      |     45.1       |     63.3         |     47.6      |
 
 
-Train on real fire datasets and MSFWD
+Train on real fire datasets and M<sup>4</sup>SFWD
 
 | Model              |     AP50:95    |     AP50    |     APFire    |     APSmoke    |     Precision    |     Recall    |
 |--------------------|----------------|-------------|---------------|----------------|------------------|---------------|

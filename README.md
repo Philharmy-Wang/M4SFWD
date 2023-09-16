@@ -1,4 +1,4 @@
-~# Multimodal Synthetic Forest Wildfire Dataset (MSFWD)
+# Multiple scenarios, multiple weather conditions, multiple lighting conditions and multiple wildfire objects Synthetic Forest Wildfire Dataset (M<sup>4</sup>SFWD)
 
 [English](https://github.com/Philharmy-Wang/MSFFD/blob/main/README.md) |  [中文简体](https://github.com/Philharmy-Wang/MSFFD/blob/main/README_zh.md)
 
